@@ -84,8 +84,6 @@ python3 check.py --output pdf
 For PDF output, you'll need to install `wkhtmltopdf`:
 
 - On macOS: `brew install wkhtmltopdf`
-- On Ubuntu/Debian: `sudo apt-get install wkhtmltopdf`
-- On CentOS/RHEL: `sudo yum install wkhtmltopdf`
 
 Make sure to install the additional Python packages:
 
